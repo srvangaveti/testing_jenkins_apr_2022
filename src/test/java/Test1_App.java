@@ -22,7 +22,6 @@ public class Test1_App {
     @Test
     public void test5(){
         System.out.println("running test5");
-        Assert.fail();
     }
 
 }
