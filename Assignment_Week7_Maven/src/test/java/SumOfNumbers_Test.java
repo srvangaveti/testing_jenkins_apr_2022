@@ -25,4 +25,9 @@ public class SumOfNumbers_Test {
         int expResult = 0;
         Assert.assertEquals(expResult,actResult);
     }
+
+    @Test
+    public void test4(){
+        Assert.fail();
+    }
 }
