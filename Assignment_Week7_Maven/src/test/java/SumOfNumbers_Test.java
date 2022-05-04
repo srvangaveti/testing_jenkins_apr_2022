@@ -27,7 +27,7 @@ public class SumOfNumbers_Test {
     }
 
     @Test
-    public void test4(){
+    public void generate_test4(){
         Assert.fail();
     }
 }
